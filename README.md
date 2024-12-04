@@ -1,3 +1,3 @@
 # BDS-G3
 # BBOTCAMP DE DATA SCIENCE GRUPO G3 
-# PRIMEROS PASOS 
+# Alumno: Rodrigo Contreras Peña 
